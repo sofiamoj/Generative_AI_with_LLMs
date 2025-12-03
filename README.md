@@ -7,21 +7,17 @@ All code is independently written using Hugging Face models and Python for educa
 
 ## 🧪 Labs Overview
 
-1. **Lab 1 – Dialogue Summarization**
+1. - [Lab 1 – Dialogue Summarization](Lab_1_summarize_dialogue/Lab_1_summarize_dialogue.ipynb)  
    - Summarize multi-speaker dialogues using transformer-based Large Language Models.
    - Focus on abstractive summarization techniques and evaluation of generated summaries.
-- [Lab 1 – Dialogue Summarization](Lab_1_summarize_dialogue/Lab_1_summarize_dialogue.ipynb)  
 
-2. **Lab 2 – Fine-Tuning a Generative AI Model**
+2. (Lab_2_fine_tune_generative_ai_model/Lab_2_fine_tune_generative_ai_model.ipynb)  
    - Fine-tune a pre-trained generative model on domain-specific summarization datasets.
    - Includes preprocessing, training, evaluation, and saving fine-tuned models.
-- [Lab 2 – Fine-Tuning a Generative AI Model](Lab_2_fine_tune_generative_ai_model/Lab_2_fine_tune_generative_ai_model.ipynb)  
 
-3. **Lab 3 – Detoxifying Summaries**
+3. - [Lab 3 – Detoxifying Summaries](Lab_3_fine_tune_model_to_detoxify_summaries/Lab_3_fine_tune_model_to_detoxify_summaries.ipynb)
    - Reduce toxic or harmful content in automatically generated summaries.
    - Uses safety-aware fine-tuning and controlled text generation strategies.
-
-- [Lab 3 – Detoxifying Summaries](Lab_3_fine_tune_model_to_detoxify_summaries/Lab_3_fine_tune_model_to_detoxify_summaries.ipynb)  
 
 ---
 
