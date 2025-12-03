@@ -1,0 +1,22 @@
+# Core Python libraries
+numpy==1.25.0
+pandas==2.1.0
+tqdm==4.66.1
+
+# Deep Learning
+torch==1.13.1
+torchdata==0.5.1
+
+# Hugging Face ecosystem
+transformers==4.27.2
+datasets==2.11.0
+evaluate==0.4.0
+rouge_score==0.1.2
+
+# Fine-tuning & PEFT / LoRA / RLHF
+loralib==0.1.1
+peft==0.3.0
+trl==0.4.0
+
+# Optional: Jupyter for notebooks
+jupyter==1.0.0
